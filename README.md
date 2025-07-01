@@ -1,6 +1,9 @@
 # Blinkit-Sales-Dashboard
 This project features an interactive Sales Analytics Dashboard for Blinkit, built in Microsoft Excel. It provides actionable insights into sales performance, outlet distribution, product categories, and customer preferences across locations and outlet sizes
 
+<img width="722" alt="BLINKIT sales dashboard" src="https://github.com/user-attachments/assets/8566bdaf-6acd-4002-ba49-79f53a0512d6" />
+
+
 # Key Metrics (KPIs)
 
 Total Sales: $1.2M
